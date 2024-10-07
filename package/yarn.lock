@@ -2536,7 +2536,7 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@shopify/react-native-skia@^1.4.2":
+"@shopify/react-native-skia@1.4.2":
   version "1.4.2"
   resolved "https://registry.yarnpkg.com/@shopify/react-native-skia/-/react-native-skia-1.4.2.tgz#80faed6569edb93a3fe6191760efcf2748257433"
   integrity sha512-Qg1H/MglY5BJiL4g2+8Tz97fZZp8XM48lb1xjGHqKmo54KwCmhc3GREnL/MYqcTcuJnIUNVYQmAJUw5xT3Chsg==

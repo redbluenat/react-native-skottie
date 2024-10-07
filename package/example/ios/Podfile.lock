@@ -958,7 +958,7 @@ PODS:
   - React-Mapbuffer (0.74.1):
     - glog
     - React-debug
-  - react-native-skia (1.2.3):
+  - react-native-skia (1.4.2):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -981,7 +981,7 @@ PODS:
     - ReactCommon/turbomodule/bridging
     - ReactCommon/turbomodule/core
     - Yoga
-  - react-native-skia-skottie (2.1.0):
+  - react-native-skia-skottie (2.1.4):
     - React
     - React-Core
     - react-native-skia
@@ -1437,7 +1437,7 @@ SPEC CHECKSUMS:
   lottie-ios: e047b1d2e6239b787cc5e9755b988869cf190494
   lottie-react-native: 4279da8b681e89c29a2adb9f99985d6cf372d49d
   RCT-Folly: 02617c592a293bd6d418e0a88ff4ee1f88329b47
-  RCTDeprecation: 4dc9c8fbcb15bc9e8f3cfa601ddc190e120f099b
+  RCTDeprecation: efb313d8126259e9294dc4ee0002f44a6f676aba
   RCTRequired: f49ea29cece52aee20db633ae7edc4b271435562
   RCTTypeSafety: a11979ff0570d230d74de9f604f7d19692157bc4
   React: 88794fad7f460349dbc9df8a274d95f37a009f5d
@@ -1460,8 +1460,8 @@ SPEC CHECKSUMS:
   React-jsitracing: 233d1a798fe0ff33b8e630b8f00f62c4a8115fbc
   React-logger: 7e7403a2b14c97f847d90763af76b84b152b6fce
   React-Mapbuffer: 11029dcd47c5c9e057a4092ab9c2a8d10a496a33
-  react-native-skia: 80282ed176572d97f6abe128ddcb567e0c33fe93
-  react-native-skia-skottie: a1b7c13100050b737cf36edc41e91b4c2ccdc02e
+  react-native-skia: b9468dd4d9e0fe825506f7708a647447acb4dabb
+  react-native-skia-skottie: 2ae66c8d8a45c2c66bb789dbbba8f266cfa423f3
   React-nativeconfig: b0073a590774e8b35192fead188a36d1dca23dec
   React-NativeModulesApple: df46ff3e3de5b842b30b4ca8a6caae6d7c8ab09f
   React-perflogger: 3d31e0d1e8ad891e43a09ac70b7b17a79773003a
@@ -1488,8 +1488,8 @@ SPEC CHECKSUMS:
   RNReanimated: daf22f7ef44083dd6aadc8550cae88e5d8d7190a
   SocketRocket: abac6f5de4d4d62d24e11868d7a2f427e0ef940d
   SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
-  Yoga: b9a182ab00cf25926e7f79657d08c5d23c2d03b0
+  Yoga: 348f8b538c3ed4423eb58a8e5730feec50bce372
 
 PODFILE CHECKSUM: b9af90fc7a18f5d7c8b1dd39bfce223e21a6064f
 
-COCOAPODS: 1.12.1
+COCOAPODS: 1.15.2
